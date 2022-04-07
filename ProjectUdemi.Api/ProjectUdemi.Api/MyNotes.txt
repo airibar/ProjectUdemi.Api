@@ -1,0 +1,2 @@
+﻿ProjectUdemi.Api -Github https://github.com/airibar/ProjectUdemi.Api.git
+1 Branch Local Setup
